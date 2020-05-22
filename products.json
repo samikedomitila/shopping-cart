@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Avocado",
+        "price": 10.99,
+        "image": { "fields": { "file": { "url": "./images/avocados.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Grapes",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/grapes.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Oranges",
+        "price": 12.99,
+        "image": { "fields": { "file": { "url": "./images/oranges.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Watermelon",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/watermelon.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Tomato",
+        "price": 88.99,
+        "image": { "fields": { "file": { "url": "./images/tomato.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "pumpkin",
+        "price": 32.99,
+        "image": { "fields": { "file": { "url": "./images/pumkin.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Bocolli",
+        "price": 45.99,
+        "image": { "fields": { "file": { "url": "./images/bocolli.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Guava   ",
+        "price": 33.99,
+        "image": { "fields": { "file": { "url": "./images/guava.jpeg" } } }
+      }
+    }
+  ]
+}
